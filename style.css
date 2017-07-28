@@ -1,0 +1,113 @@
+body {
+    background-image: url(blurry3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mainButton {
+    background-color: #EECCE1;
+    text-align: center;
+    font-size: 18px;
+    padding: 14px 40px;
+    width: 200px;
+    position: absolute;
+    top: 45%;
+    /*right: 37%;*/
+    border: 2px solid #5E175A;
+    right: 45%;
+}
+
+.searchBar1 {
+    padding: 10px 30px;
+    top: 40%;
+    width: 200px;
+    height: 15px;
+    /*right: 4%;*/
+    position: absolute;
+    border: 5px solid #5E175A;
+    font-size: 20px;
+    text-align: center;
+    right: 45%;
+}
+
+.searchBar2 {
+    padding: 10px 30px;
+    top: 30%;
+    width: 200px;
+    height: 15px;
+    /*right: 4%;*/
+    position: absolute;
+    border: 5px solid #5E175A;
+    font-size: 20px;
+    text-align: center;
+    right: 45%;
+}
+
+#p {
+    position: absolute;
+    top: 55%;
+    left: 25%;
+    width: 900px;
+    color: white;
+    background-color: #5E175A;
+    font-family: 'Nunito', sans-serif;
+}
+
+#searchBar2 {
+    position: absolute;
+}
+
+.input {
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.page-header {
+    text-align: center;
+    width: 100%;
+    position: absolute;
+}
+
+
+/*.dropdown{*/
+
+
+/*    right:50%;*/
+
+
+/*    position: absolute;*/
+
+
+/*    top: 50%;*/
+
+
+/*    font-family: 'Nunito', sans-serif;*/
+
+
+/*}*/
+
+#keywordinstructions {
+    text-align: center;
+    font-weight: 500px;
+    font-family: 'Nunito', sans-serif;
+    background-color:#EECCE1;
+    top: 34%;
+    right: 35%;
+    position: absolute;
+}
+
+/*#categoryinstructions{*/
+    
+/*}*/
+
+
+/*.input2{*/
+
+
+/*    top:50%;*/
+
+
+/*    position:absolute;*/
+
+
+/*}*/
